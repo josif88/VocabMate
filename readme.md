@@ -1,4 +1,4 @@
-!#Vocabmate Translator
+!# Vocabmate Translator
 
 ### Practice makes perfect - We learn by repetition, it is the key to enrich your vocabularies
 
