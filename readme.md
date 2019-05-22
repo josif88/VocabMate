@@ -1,4 +1,6 @@
-# Practice makes perfect - We learn by repetition, it is the key to enrich your vocabularies
+#Vocabmate Translator
+
+### Practice makes perfect - We learn by repetition, it is the key to enrich your vocabularies
 
 ## Why does this app exist
 
