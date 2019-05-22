@@ -44,3 +44,9 @@ You continue this process until you have memorised the word and learn it by hear
 [Twitter](https://twitter.com/vocabmate)
 
 [Instagram](https://www.instagram.com/vocabmate/)
+
+## Contacts
+
+please email me on yousifalmubarka@gmail.com
+
+[Privacy policy](http://mubareka.info/privacy_policy.html)
