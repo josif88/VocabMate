@@ -39,7 +39,7 @@ You continue this process until you have memorised the word and learn it by hear
 [Download for android](https://play.google.com/store/apps/details?id=mubareka.com.wordsmemorization&hl=en)
 
 ## Find us on
-[Facebook page](https://www.facebook.com/vocabmate/)
+[Facebook](https://www.facebook.com/vocabmate/)
 
 [Twitter](https://twitter.com/vocabmate)
 
