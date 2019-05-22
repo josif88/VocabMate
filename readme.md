@@ -1,6 +1,4 @@
-# VocabMate
-
-#### Practice makes perfect - We learn by repetition, it is the key to enrich your vocabularies
+# Practice makes perfect - We learn by repetition, it is the key to enrich your vocabularies
 
 ## Why does this app exist
 
